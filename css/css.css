@@ -901,6 +901,7 @@ body{
 
  }
 .ContactNUMBER{
+    text-decoration: none;
     position: absolute;
     width: 136px;
     height: 18px;
